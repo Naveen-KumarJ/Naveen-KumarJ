@@ -2,11 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Naveen+Kumar+J" alt="Typing SVG" />
 </p>
 <h3 align="center">Aspiring Software Developer | Passionate about turning ideas into code 🚀</h3>
-
+<br>
 <p align="left">
-  🌱 Currently diving deep into <strong>Frontend Development with React</strong><br>
-  💬  I'm happy to discuss <strong>Java and Problem Solving</strong><br>
-  📫 Reach me at: <strong>naveen.jayakumar02@gmail.com</strong><br>
+  🌱 Currently diving deep into <strong>Frontend Development with React</strong><br><br>
+  💬  I'm happy to discuss <strong>Java and Problem Solving</strong><br><br>
+  📫 Reach me at: <strong>naveen.jayakumar02@gmail.com</strong><br><br>
   ⚡ Fun fact: <em>My brainstorming buddy? ChatGPT — always ready when my brain isn't 😅🤖</em>
 </p>
 
