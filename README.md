@@ -4,8 +4,8 @@
 <h3 align="center">Aspiring Software Developer | Passionate about turning ideas into code 🚀</h3>
 <br>
 <p align="left">
-  🌱 Currently diving deep into <strong>Backend Development with Node.js</strong><br><br>
-  💬  I'm happy to discuss <strong>Java and Problem Solving</strong><br><br>
+  🌱 Recently completed studying the <strong>MERN Stack</strong>. Now, I'm building projects to strengthen my skills.<br><br>
+  💬 Open to discussing <strong>Java and Problem Solving</strong> anytime!<br><br>
   📫 Reach me at: <strong>naveen.jayakumar02@gmail.com</strong><br><br>
   ⚡ Fun fact: <em>My brainstorming buddy? ChatGPT — always ready when my brain isn't 😅🤖</em>
 </p>
